@@ -1,2 +1,3 @@
 # Orlando_Tree_Extraction
-Generates four indices and hierarchical classification
+Step 1 Generates four indices 
+Step 2 Hierarchical classification
